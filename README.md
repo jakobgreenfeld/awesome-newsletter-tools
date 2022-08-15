@@ -23,6 +23,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Advertisements
 
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
+- [Swapstack](https://swapstack.co) - Connecting brands to newsletter audiences for relevant sponsorships.
 
 ## Communities
 
@@ -34,6 +35,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Apply for invite.
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
 - [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
+- [Newsletter Story](https://www.newsletterstory.com) - Learn how the smartest writers craft and grow their newsletters
 
 ## Deliverability
 
